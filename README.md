@@ -1,4 +1,4 @@
-### Greyson Murray
+### Hey! 👋
 ---
 Studying Computer Science at Pennsylvania State University.
 
