@@ -5,4 +5,4 @@
 🎞 [Instagram](https://www.instagram.com/greyson.murray/)\
 🥞 [StackOverflow](https://stackoverflow.com/users/12326283/gmdev)\
 ✉️ greyson.murray@gmail.com\
-🔗 [LinkedIn](https://www.linkedin.com/in/greyson-murray/)\
+🔗 [LinkedIn](https://www.linkedin.com/in/greyson-murray/)
