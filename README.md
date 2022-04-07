@@ -1,6 +1,4 @@
-### Hey! 👋
----
-🦁 Studying Computer Science at Pennsylvania State University.
+🦁 Computer Science student at Pennsylvania State University.
 
 🔗 [LinkedIn](https://www.linkedin.com/in/greyson-murray/)\
 🥞 [StackOverflow](https://stackoverflow.com/users/12326283/gmdev)\
