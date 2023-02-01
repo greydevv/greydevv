@@ -1,4 +1,5 @@
-🦁 Computer Science student at Pennsylvania State University.
+🦁 Computer Science student at Pennsylvania State University
+🎲 Incoming SWE intern at [DraftKings](https://www.draftkings.com/)
 
 ---
 
