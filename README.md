@@ -1,5 +1,5 @@
-👑 Software Engineer at [DraftKings](https://www.draftkings.com/)
-🦁 Computer Science student at Pennsylvania State University\
+👑 Software Engineer at [DraftKings](https://www.draftkings.com/)\
+🦁 Computer Science student at Pennsylvania State University
 
 ---
 
