@@ -1,4 +1,4 @@
-Software Engineer at [DraftKings](https://www.draftkings.com/)\
+Software Engineer at [DraftKings](https://www.draftkings.com/)
 
 ---
 
